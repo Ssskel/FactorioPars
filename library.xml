@@ -2,316 +2,316 @@
 <library>
   <category name="Logistics">
     <sub_category name="Storage">
-      <title>Woodenchest</title>
-      <title>Ironchest</title>
-      <title>Steelchest</title>
-      <title>Storagetank</title>
+      <title>Wooden chest</title>
+      <title>Iron chest</title>
+      <title>Steel chest</title>
+      <title>Storage tank</title>
     </sub_category>
     <sub_category name="Belt transport system">
-      <title>Transportbelt</title>
-      <title>Fasttransportbelt</title>
-      <title>Expresstransportbelt</title>
-      <title>Turbotransportbelt</title>
-      <title>Undergroundbelt</title>
-      <title>Fastundergroundbelt</title>
-      <title>Expressundergroundbelt</title>
-      <title>Turboundergroundbelt</title>
+      <title>Transport belt</title>
+      <title>Fast transport belt</title>
+      <title>Express transport belt</title>
+      <title>Turbo transport belt</title>
+      <title>Underground belt</title>
+      <title>Fast underground belt</title>
+      <title>Express underground belt</title>
+      <title>Turbo underground belt</title>
       <title>Splitter</title>
-      <title>Fastsplitter</title>
-      <title>Expresssplitter</title>
-      <title>Turbosplitter</title>
+      <title>Fast splitter</title>
+      <title>Express splitter</title>
+      <title>Turbo splitter</title>
     </sub_category>
     <sub_category name="Inserters">
-      <title>Burnerinserter</title>
+      <title>Burner inserter</title>
       <title>Inserter</title>
-      <title>Longhandedinserter</title>
-      <title>Fastinserter</title>
-      <title>Bulkinserter</title>
-      <title>Stackinserter</title>
+      <title>Long-handed inserter</title>
+      <title>Fast inserter</title>
+      <title>Bulk inserter</title>
+      <title>Stack inserter</title>
     </sub_category>
     <sub_category name="Electric system &amp; Fluid system">
-      <title>Smallelectricpole</title>
-      <title>Mediumelectricpole</title>
-      <title>Bigelectricpole</title>
+      <title>Small electric pole</title>
+      <title>Medium electric pole</title>
+      <title>Big electric pole</title>
       <title>Substation</title>
       <title>Pipe</title>
-      <title>Pipetoground</title>
+      <title>Pipe to ground</title>
       <title>Pump</title>
     </sub_category>
     <sub_category name="Railway">
       <title>Rail</title>
-      <title>Railramp</title>
-      <title>Railsupport</title>
-      <title>Trainstop</title>
-      <title>Railsignal</title>
-      <title>Railchainsignal</title>
+      <title>Rail ramp</title>
+      <title>Rail support</title>
+      <title>Train stop</title>
+      <title>Rail signal</title>
+      <title>Rail chain signal</title>
       <title>Locomotive</title>
-      <title>Cargowagon</title>
-      <title>Fluidwagon</title>
-      <title>Artillerywagon</title>
+      <title>Cargo wagon</title>
+      <title>Fluid wagon</title>
+      <title>Artillery wagon</title>
     </sub_category>
     <sub_category name="Transport">
       <title>Car</title>
       <title>Tank</title>
       <title>Spidertron</title>
-      <title>Spidertronremote</title>
+      <title>Spidertron remote</title>
     </sub_category>
     <sub_category name="Logistic network">
-      <title>Logisticrobot</title>
-      <title>Constructionrobot</title>
-      <title>Activeproviderchest</title>
-      <title>Passiveproviderchest</title>
-      <title>Storagechest</title>
-      <title>Bufferchest</title>
-      <title>Requesterchest</title>
+      <title>Logistic robot</title>
+      <title>Construction robot</title>
+      <title>Active provider chest</title>
+      <title>Passive provider chest</title>
+      <title>Storage chest</title>
+      <title>Buffer chest</title>
+      <title>Requester chest</title>
       <title>Roboport</title>
     </sub_category>
     <sub_category name="Circuit network">
       <title>Lamp</title>
-      <title>Redwire</title>
-      <title>Greenwire</title>
-      <title>Arithmeticcombinator</title>
-      <title>Decidercombinator</title>
-      <title>Selectorcombinator</title>
-      <title>Constantcombinator</title>
-      <title>Powerswitch</title>
-      <title>Programmablespeaker</title>
-      <title>Displaypanel</title>
+      <title>Red wire</title>
+      <title>Green wire</title>
+      <title>Arithmetic combinator</title>
+      <title>Decider combinator</title>
+      <title>Selector combinator</title>
+      <title>Constant combinator</title>
+      <title>Power switch</title>
+      <title>Programmable speaker</title>
+      <title>Display panel</title>
     </sub_category>
     <sub_category name="Terrain">
-      <title>Stonebrick</title>
+      <title>Stone brick</title>
       <title>Concrete</title>
-      <title>Hazardconcrete</title>
-      <title>Refinedconcrete</title>
-      <title>Refinedhazardconcrete</title>
+      <title>Hazard concrete</title>
+      <title>Refined concrete</title>
+      <title>Refined hazard concrete</title>
       <title>Landfill</title>
-      <title>Artificialyumakosoil</title>
-      <title>Overgrowthyumakosoil</title>
-      <title>Artificialjellynutsoil</title>
-      <title>Overgrowthjellynutsoil</title>
-      <title>Iceplatform</title>
+      <title>Artificial yumako soil</title>
+      <title>Overgrowth yumako soil</title>
+      <title>Artificial jellynut soil</title>
+      <title>Overgrowth jellynut soil</title>
+      <title>Ice platform</title>
       <title>Foundation</title>
-      <title>Cliffexplosives</title>
+      <title>Cliff explosives</title>
     </sub_category>
   </category>
   <category name="Production items">
     <sub_category name="Tools">
-      <title>Repairpack</title>
+      <title>Repair pack</title>
       <title>Blueprint</title>
-      <title>Deconstructionplanner</title>
-      <title>Upgradeplanner</title>
-      <title>Blueprintbook</title>
+      <title>Deconstruction planner</title>
+      <title>Upgrade planner</title>
+      <title>Blueprint book</title>
     </sub_category>
     <sub_category name="Electricity">
       <title>Boiler</title>
-      <title>Steamengine</title>
-      <title>Solarpanel</title>
+      <title>Steam engine</title>
+      <title>Solar panel</title>
       <title>Accumulator</title>
-      <title>Nuclearreactor</title>
-      <title>Heatpipe</title>
-      <title>Heatexchanger</title>
-      <title>Steamturbine</title>
-      <title>Fusionreactor</title>
-      <title>Fusiongenerator</title>
+      <title>Nuclear reactor</title>
+      <title>Heat pipe</title>
+      <title>Heat exchanger</title>
+      <title>Steam turbine</title>
+      <title>Fusion reactor</title>
+      <title>Fusion generator</title>
     </sub_category>
     <sub_category name="Resource extraction">
-      <title>Burnerminingdrill</title>
-      <title>Electricminingdrill</title>
-      <title>Bigminingdrill</title>
-      <title>Offshorepump</title>
+      <title>Burner mining drill</title>
+      <title>Electric mining drill</title>
+      <title>Big mining drill</title>
+      <title>Offshore pump</title>
       <title>Pumpjack</title>
     </sub_category>
     <sub_category name="Furnaces">
-      <title>Stonefurnace</title>
-      <title>Steelfurnace</title>
-      <title>Electricfurnace</title>
+      <title>Stone furnace</title>
+      <title>Steel furnace</title>
+      <title>Electric furnace</title>
       <title>Foundry</title>
       <title>Recycler</title>
     </sub_category>
     <sub_category name="Agriculture">
-      <title>Agriculturaltower</title>
+      <title>Agricultural tower</title>
       <title>Biochamber</title>
-      <title>Captivebiterspawner</title>
+      <title>Captive biter spawner</title>
     </sub_category>
     <sub_category name="Production">
-      <title>Assemblingmachine</title>
-      <title>Assemblingmachine</title>
-      <title>Assemblingmachine</title>
-      <title>Oilrefinery</title>
-      <title>Chemicalplant</title>
+      <title>Assembling machine 1</title>
+      <title>Assembling machine 2</title>
+      <title>Assembling machine 3</title>
+      <title>Oil refinery</title>
+      <title>Chemical plant</title>
       <title>Centrifuge</title>
-      <title>Electromagneticplant</title>
-      <title>Cryogenicplant</title>
+      <title>Electromagnetic plant</title>
+      <title>Cryogenic plant</title>
       <title>Lab</title>
       <title>Biolab</title>
     </sub_category>
     <sub_category name="Environmental protection">
-      <title>Lightningrod</title>
-      <title>Lightningcollector</title>
-      <title>Heatingtower</title>
+      <title>Lightning rod</title>
+      <title>Lightning collector</title>
+      <title>Heating tower</title>
     </sub_category>
     <sub_category name="Modules">
       <title>Beacon</title>
-      <title>Speedmodule</title>
-      <title>Speedmodule</title>
-      <title>Speedmodule</title>
-      <title>Efficiencymodule</title>
-      <title>Efficiencymodule</title>
-      <title>Efficiencymodule</title>
-      <title>Productivitymodule</title>
-      <title>Productivitymodule</title>
-      <title>Productivitymodule</title>
-      <title>Qualitymodule</title>
-      <title>Qualitymodule</title>
-      <title>Qualitymodule</title>
+      <title>Speed module</title>
+      <title>Speed module 2</title>
+      <title>Speed module 3</title>
+      <title>Efficiency module</title>
+      <title>Efficiency module 2</title>
+      <title>Efficiency module 3</title>
+      <title>Productivity module</title>
+      <title>Productivity module 2</title>
+      <title>Productivity module 3</title>
+      <title>Quality module</title>
+      <title>Quality module 2</title>
+      <title>Quality module 3</title>
     </sub_category>
   </category>
   <category name="Intermediate products">
     <sub_category name="Fluids">
       <title>Water</title>
       <title>Steam</title>
-      <title>Crudeoil</title>
-      <title>Heavyoil</title>
-      <title>Lightoil</title>
+      <title>Crude oil</title>
+      <title>Heavy oil</title>
+      <title>Light oil</title>
       <title>Lubricant</title>
-      <title>Petroleumgas</title>
-      <title>Sulfuricacid</title>
-      <title>Thrusterfuel</title>
-      <title>Thrusteroxidizer</title>
+      <title>Petroleum gas</title>
+      <title>Sulfuric acid</title>
+      <title>Thruster fuel</title>
+      <title>Thruster oxidizer</title>
       <title>Lava</title>
-      <title>Molteniron</title>
-      <title>Moltencopper</title>
-      <title>Holmiumsolution</title>
+      <title>Molten iron</title>
+      <title>Molten copper</title>
+      <title>Holmium solution</title>
       <title>Electrolyte</title>
-      <title>Ammoniacalsolution</title>
+      <title>Ammoniacal solution</title>
       <title>Ammonia</title>
       <title>Fluorine</title>
-      <title>Fluoroketonehot</title>
-      <title>Fluoroketonecold</title>
-      <title>Lithiumbrine</title>
+      <title>Fluoroketone (hot)</title>
+      <title>Fluoroketone (cold)</title>
+      <title>Lithium brine</title>
       <title>Plasma</title>
     </sub_category>
     <sub_category name="Resources">
       <title>Wood</title>
       <title>Coal</title>
       <title>Stone</title>
-      <title>Ironore</title>
-      <title>Copperore</title>
-      <title>Uraniumore</title>
-      <title>Rawfish</title>
+      <title>Iron ore</title>
+      <title>Copper ore</title>
+      <title>Uranium ore</title>
+      <title>Raw fish</title>
       <title>Ice</title>
     </sub_category>
     <sub_category name="Materials">
-      <title>Ironplate</title>
-      <title>Copperplate</title>
-      <title>Steelplate</title>
-      <title>Solidfuel</title>
-      <title>Plasticbar</title>
+      <title>Iron plate</title>
+      <title>Copper plate</title>
+      <title>Steel plate</title>
+      <title>Solid fuel</title>
+      <title>Plastic bar</title>
       <title>Sulfur</title>
       <title>Battery</title>
       <title>Explosives</title>
       <title>Carbon</title>
-      <title>Coalsynthesis</title>
+      <title>Coal synthesis</title>
     </sub_category>
     <sub_category name="Crafting components">
-      <title>Irongearwheel</title>
-      <title>Ironstick</title>
-      <title>Coppercable</title>
+      <title>Iron gear wheel</title>
+      <title>Iron stick</title>
+      <title>Copper cable</title>
       <title>Barrel</title>
-      <title>Electroniccircuit</title>
-      <title>Advancedcircuit</title>
-      <title>Processingunit</title>
-      <title>Engineunit</title>
-      <title>Electricengineunit</title>
-      <title>Flyingrobotframe</title>
-      <title>Lowdensitystructure</title>
-      <title>Rocketfuel</title>
-      <title>Rocketpart</title>
+      <title>Electronic circuit</title>
+      <title>Advanced circuit</title>
+      <title>Processing unit</title>
+      <title>Engine unit</title>
+      <title>Electric engine unit</title>
+      <title>Flying robot frame</title>
+      <title>Low density structure</title>
+      <title>Rocket fuel</title>
+      <title>Rocket part</title>
     </sub_category>
     <sub_category name="Uranium processing">
-      <title>Uranium</title>
-      <title>Uranium</title>
-      <title>Uraniumfuelcell</title>
-      <title>Depleteduraniumfuelcell</title>
-      <title>Nuclearfuel</title>
-      <title>Uraniumprocessing</title>
-      <title>Nuclearfuelreprocessing</title>
-      <title>Kovarexenrichmentprocess</title>
+      <title>Uranium-235</title>
+      <title>Uranium-238</title>
+      <title>Uranium fuel cell</title>
+      <title>Depleted uranium fuel cell</title>
+      <title>Nuclear fuel</title>
+      <title>Uranium processing</title>
+      <title>Nuclear fuel reprocessing</title>
+      <title>Kovarex enrichment process</title>
     </sub_category>
     <sub_category name="Vulcanus">
       <title>Calcite</title>
-      <title>Tungstenore</title>
-      <title>Tungstencarbide</title>
-      <title>Tungstenplate</title>
+      <title>Tungsten ore</title>
+      <title>Tungsten carbide</title>
+      <title>Tungsten plate</title>
     </sub_category>
     <sub_category name="Fulgora">
       <title>Scrap</title>
-      <title>Holmiumore</title>
-      <title>Holmiumplate</title>
+      <title>Holmium ore</title>
+      <title>Holmium plate</title>
       <title>Superconductor</title>
       <title>Supercapacitor</title>
     </sub_category>
     <sub_category name="Gleba">
-      <title>Yumakoseed</title>
-      <title>Jellynutseed</title>
-      <title>Treeseed</title>
+      <title>Yumako seed</title>
+      <title>Jellynut seed</title>
+      <title>Tree seed</title>
       <title>Yumako</title>
       <title>Jellynut</title>
-      <title>Ironbacteria</title>
-      <title>Copperbacteria</title>
+      <title>Iron bacteria</title>
+      <title>Copper bacteria</title>
       <title>Spoilage</title>
       <title>Nutrients</title>
       <title>Bioflux</title>
-      <title>Yumakomash</title>
+      <title>Yumako mash</title>
       <title>Jelly</title>
-      <title>Carbonfiber</title>
-      <title>Biteregg</title>
-      <title>Pentapodegg</title>
+      <title>Carbon fiber</title>
+      <title>Biter egg</title>
+      <title>Pentapod egg</title>
     </sub_category>
     <sub_category name="Aquilo">
       <title>Lithium</title>
-      <title>Lithiumplate</title>
-      <title>Quantumprocessor</title>
-      <title>Fusionpowercell</title>
+      <title>Lithium plate</title>
+      <title>Quantum processor</title>
+      <title>Fusion power cell</title>
     </sub_category>
     <sub_category name="Science packs">
-      <title>Automationsciencepack</title>
-      <title>Logisticsciencepack</title>
-      <title>Militarysciencepack</title>
-      <title>Chemicalsciencepack</title>
-      <title>Productionsciencepack</title>
-      <title>Utilitysciencepack</title>
-      <title>Spacesciencepack</title>
-      <title>Metallurgicsciencepack</title>
-      <title>Electromagneticsciencepack</title>
-      <title>Agriculturalsciencepack</title>
-      <title>Cryogenicsciencepack</title>
-      <title>Promethiumsciencepack</title>
+      <title>Automation science pack</title>
+      <title>Logistic science pack</title>
+      <title>Military science pack</title>
+      <title>Chemical science pack</title>
+      <title>Production science pack</title>
+      <title>Utility science pack</title>
+      <title>Space science pack</title>
+      <title>Metallurgic science pack</title>
+      <title>Electromagnetic science pack</title>
+      <title>Agricultural science pack</title>
+      <title>Cryogenic science pack</title>
+      <title>Promethium science pack</title>
     </sub_category>
   </category>
   <category name="Space">
     <sub_category name="Planetside buildings">
-      <title>Rocketsilo</title>
-      <title>Cargolandingpad</title>
+      <title>Rocket silo</title>
+      <title>Cargo landing pad</title>
     </sub_category>
     <sub_category name="Space platform">
-      <title>Spaceplatformfoundation</title>
-      <title>Cargobay</title>
-      <title>Cargopod</title>
-      <title>Asteroidcollector</title>
+      <title>Space platform foundation</title>
+      <title>Cargo bay</title>
+      <title>Cargo pod</title>
+      <title>Asteroid collector</title>
       <title>Crusher</title>
       <title>Thruster</title>
-      <title>Spaceplatformhub</title>
+      <title>Space platform hub</title>
     </sub_category>
     <sub_category name="Rocket cargo">
       <title>Satellite</title>
-      <title>Spaceplatformstarterpack</title>
+      <title>Space platform starter pack</title>
     </sub_category>
     <sub_category name="Asteroids">
-      <title>Metallicasteroidchunk</title>
-      <title>Carbonicasteroidchunk</title>
-      <title>Oxideasteroidchunk</title>
-      <title>Promethiumasteroidchunk</title>
+      <title>Metallic asteroid chunk</title>
+      <title>Carbonic asteroid chunk</title>
+      <title>Oxide asteroid chunk</title>
+      <title>Promethium asteroid chunk</title>
     </sub_category>
     <sub_category name="Locations">
       <title>Nauvis</title>
@@ -319,93 +319,93 @@
       <title>Gleba</title>
       <title>Fulgora</title>
       <title>Aquilo</title>
-      <title>Solarsystemedge</title>
-      <title>Shatteredplanet</title>
+      <title>Solar system edge</title>
+      <title>Shattered planet</title>
     </sub_category>
   </category>
   <category name="Combat items">
     <sub_category name="Weapons">
       <title>Pistol</title>
-      <title>Submachinegun</title>
+      <title>Submachine gun</title>
       <title>Railgun</title>
-      <title>Teslagun</title>
+      <title>Tesla gun</title>
       <title>Shotgun</title>
-      <title>Combatshotgun</title>
-      <title>Rocketlauncher</title>
+      <title>Combat shotgun</title>
+      <title>Rocket launcher</title>
       <title>Flamethrower</title>
     </sub_category>
     <sub_category name="Ammo">
-      <title>Firearmmagazine</title>
-      <title>Piercingroundsmagazine</title>
-      <title>Uraniumroundsmagazine</title>
-      <title>Shotgunshells</title>
-      <title>Piercingshotgunshells</title>
-      <title>Cannonshell</title>
-      <title>Explosivecannonshell</title>
-      <title>Uraniumcannonshell</title>
-      <title>Explosiveuraniumcannonshell</title>
-      <title>Artilleryshell</title>
+      <title>Firearm magazine</title>
+      <title>Piercing rounds magazine</title>
+      <title>Uranium rounds magazine</title>
+      <title>Shotgun shells</title>
+      <title>Piercing shotgun shells</title>
+      <title>Cannon shell</title>
+      <title>Explosive cannon shell</title>
+      <title>Uranium cannon shell</title>
+      <title>Explosive uranium cannon shell</title>
+      <title>Artillery shell</title>
       <title>Rocket</title>
-      <title>Explosiverocket</title>
-      <title>Atomicbomb</title>
-      <title>Capturebotrocket</title>
-      <title>Flamethrowerammo</title>
-      <title>Railgunammo</title>
-      <title>Teslaammo</title>
+      <title>Explosive rocket</title>
+      <title>Atomic bomb</title>
+      <title>Capture bot rocket</title>
+      <title>Flamethrower ammo</title>
+      <title>Railgun ammo</title>
+      <title>Tesla ammo</title>
     </sub_category>
     <sub_category name="Capsules">
       <title>Grenade</title>
-      <title>Clustergrenade</title>
-      <title>Poisoncapsule</title>
-      <title>Slowdowncapsule</title>
-      <title>Defendercapsule</title>
-      <title>Distractorcapsule</title>
-      <title>Destroyercapsule</title>
+      <title>Cluster grenade</title>
+      <title>Poison capsule</title>
+      <title>Slowdown capsule</title>
+      <title>Defender capsule</title>
+      <title>Distractor capsule</title>
+      <title>Destroyer capsule</title>
     </sub_category>
     <sub_category name="Armor">
-      <title>Lightarmor</title>
-      <title>Heavyarmor</title>
-      <title>Modulararmor</title>
-      <title>Powerarmor</title>
-      <title>PowerarmorMK</title>
-      <title>Mecharmor</title>
+      <title>Light armor</title>
+      <title>Heavy armor</title>
+      <title>Modular armor</title>
+      <title>Power armor</title>
+      <title>Power armor MK2</title>
+      <title>Mech armor</title>
     </sub_category>
     <sub_category name="Equipment modules">
-      <title>Portablesolarpanel</title>
-      <title>Portablefissionreactor</title>
-      <title>Portablefusionreactor</title>
-      <title>Personalbattery</title>
-      <title>PersonalbatteryMK</title>
-      <title>PersonalbatteryMK</title>
-      <title>Beltimmunityequipment</title>
+      <title>Portable solar panel</title>
+      <title>Portable fission reactor</title>
+      <title>Portable fusion reactor</title>
+      <title>Personal battery</title>
+      <title>Personal battery MK2</title>
+      <title>Personal battery MK3</title>
+      <title>Belt immunity equipment</title>
       <title>Exoskeleton</title>
-      <title>Personalroboport</title>
-      <title>PersonalroboportMK</title>
+      <title>Personal roboport</title>
+      <title>Personal roboport MK2</title>
       <title>Nightvision</title>
-      <title>Toolbeltequipment</title>
+      <title>Toolbelt equipment</title>
     </sub_category>
     <sub_category name="Combat equipment">
-      <title>Energyshield</title>
-      <title>EnergyshieldMK</title>
-      <title>Personallaserdefense</title>
-      <title>Dischargedefense</title>
-      <title>Dischargedefenseremote</title>
+      <title>Energy shield</title>
+      <title>Energy shield MK2</title>
+      <title>Personal laser defense</title>
+      <title>Discharge defense</title>
+      <title>Discharge defense remote</title>
     </sub_category>
     <sub_category name="Defense">
       <title>Wall</title>
       <title>Gate</title>
       <title>Radar</title>
-      <title>Landmine</title>
+      <title>Land mine</title>
     </sub_category>
     <sub_category name="Turrets">
-      <title>Gunturret</title>
-      <title>Laserturret</title>
-      <title>Flamethrowerturret</title>
-      <title>Artilleryturret</title>
-      <title>Artillerytargetingremote</title>
-      <title>Rocketturret</title>
-      <title>Teslaturret</title>
-      <title>Railgunturret</title>
+      <title>Gun turret</title>
+      <title>Laser turret</title>
+      <title>Flamethrower turret</title>
+      <title>Artillery turret</title>
+      <title>Artillery targeting remote</title>
+      <title>Rocket turret</title>
+      <title>Tesla turret</title>
+      <title>Railgun turret</title>
     </sub_category>
   </category>
   <category name="Environment">
@@ -419,33 +419,33 @@
       <title>Biters</title>
     </sub_category>
     <sub_category name="Vulcanus">
-      <title>Ashlandtree</title>
-      <title>Demolishers</title>
+      <title>Ashland tree</title>
+      <title>Demolisher</title>
     </sub_category>
     <sub_category name="Gleba">
       <title>Jellystem</title>
-      <title>Yumakotree</title>
+      <title>Yumako tree</title>
       <title>Stromatolite</title>
       <title>Boompuff</title>
       <title>Cuttlepop</title>
       <title>Funneltrunk</title>
-      <title>Hairyclubnub</title>
+      <title>Hairy clubnub</title>
       <title>Lickmaw</title>
       <title>Slipstack</title>
       <title>Stingfrond</title>
       <title>Sunnycomb</title>
       <title>Teflilly</title>
-      <title>Watercane</title>
+      <title>Water cane</title>
       <title>Pentapods</title>
     </sub_category>
     <sub_category name="Fulgora">
-      <title>Fulgoranruin</title>
-      <title>Fulgoranvaultruin</title>
-      <title>Fulgoranlightningattractor</title>
+      <title>Fulgoran ruin</title>
+      <title>Fulgoran vault ruin</title>
+      <title>Fulgoran lightning attractor</title>
       <title>Fulgorite</title>
     </sub_category>
     <sub_category name="Aquilo">
-      <title>Lithiumiceformation</title>
+      <title>Lithium ice formation</title>
     </sub_category>
   </category>
   <category name="Technologies">
