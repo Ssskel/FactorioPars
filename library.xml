@@ -448,4 +448,159 @@
       <title>Lithiumiceformation</title>
     </sub_category>
   </category>
+  <category name="Technologies">
+    <sub_category name="Machines">
+      <title>Advanced circuit (research)</title>
+      <title>Processing unit (research)</title>
+      <title>Automation (research)</title>
+      <title>Automation 2 (research)</title>
+      <title>Automation 3 (research)</title>
+      <title>Bulk inserter (research)</title>
+      <title>Electric energy accumulators (research)</title>
+      <title>Electric energy distribution 1 (research)</title>
+      <title>Electric energy distribution 2 (research)</title>
+      <title>Fast inserter (research)</title>
+      <title>Fluid handling (research)</title>
+      <title>Logistics (research)</title>
+      <title>Logistics 2 (research)</title>
+      <title>Logistics 3 (research)</title>
+      <title>Nuclear power (research)</title>
+      <title>Oil processing (research)</title>
+      <title>Rocket silo (research)</title>
+      <title>Solar energy (research)</title>
+      <title>Stack inserter (research)</title>
+    </sub_category>
+    <sub_category name="Military/Weaponry">
+      <title>Atomic bomb (research)</title>
+      <title>Defender (research)</title>
+      <title>Distractor (research)</title>
+      <title>Destroyer (research)</title>
+      <title>Flamethrower (research)</title>
+      <title>Military (research)</title>
+      <title>Military 2 (research)</title>
+      <title>Military 3 (research)</title>
+      <title>Military 4 (research)</title>
+      <title>Rocketry (research)</title>
+      <title>Explosive rocketry (research)</title>
+      <title>Uranium ammo (research)</title>
+    </sub_category>
+    <sub_category name="Bonuses">
+      <title>Artillery shell range (research)</title>
+      <title>Artillery shell shooting speed (research)</title>
+      <title>Braking force (research)</title>
+      <title>Energy weapons damage (research)</title>
+      <title>Follower robot count (research)</title>
+      <title>Inserter capacity bonus (research)</title>
+      <title>Lab research speed (research)</title>
+      <title>Laser shooting speed (research)</title>
+      <title>Mining productivity (research)</title>
+      <title>Physical projectile damage (research)</title>
+      <title>Refined flammables (research)</title>
+      <title>Stronger explosives (research)</title>
+      <title>Weapon shooting speed (research)</title>
+      <title>Worker robot cargo size (research)</title>
+      <title>Worker robot speed (research)</title>
+    </sub_category>
+    <sub_category name="Player augmentation">
+      <title>Construction robotics (research)</title>
+      <title>Logistic robotics (research)</title>
+      <title>Steel axe (research)</title>
+      <title>Toolbelt (research)</title>
+    </sub_category>
+    <sub_category name="Defense">
+      <title>Heavy armor (research)</title>
+      <title>Modular armor (research)</title>
+      <title>Power armor (research)</title>
+      <title>Power armor MK2 (research)</title>
+      <title>Mech armor (research)</title>
+      <title>Gate (research)</title>
+      <title>Land mines (research)</title>
+      <title>Stone wall (research)</title>
+      <title>Gun turret (research)</title>
+      <title>Laser turret (research)</title>
+      <title>Artillery (research)</title>
+    </sub_category>
+    <sub_category name="Crafting">
+      <title>Advanced material processing (research)</title>
+      <title>Advanced material processing 2 (research)</title>
+      <title>Advanced oil processing (research)</title>
+      <title>Automation science pack (research)</title>
+      <title>Battery (research)</title>
+      <title>Biter egg handling (research)</title>
+      <title>Calcite processing (research)</title>
+      <title>Circuit network (research)</title>
+      <title>Chemical science pack (research)</title>
+      <title>Cliff explosives (research)</title>
+      <title>Coal liquefaction (research)</title>
+      <title>Concrete (research)</title>
+      <title>Electronics (research)</title>
+      <title>Engine (research)</title>
+      <title>Electric engine (research)</title>
+      <title>Explosives (research)</title>
+      <title>Flammables (research)</title>
+      <title>Foundation (research)</title>
+      <title>Kovarex enrichment process (research)</title>
+      <title>Landfill (research)</title>
+      <title>Laser (research)</title>
+      <title>Logistic science pack (research)</title>
+      <title>Logistic system (research)</title>
+      <title>Low density structure (research)</title>
+      <title>Lubricant (research)</title>
+      <title>Military science pack (research)</title>
+      <title>Nuclear fuel reprocessing (research)</title>
+      <title>Lamp (research)</title>
+      <title>Overgrowth soil (research)</title>
+      <title>Plastics (research)</title>
+      <title>Production science pack (research)</title>
+      <title>Robotics (research)</title>
+      <title>Rocket fuel (research)</title>
+      <title>Space science pack (research)</title>
+      <title>Steel processing (research)</title>
+      <title>Sulfur processing (research)</title>
+      <title>Uranium processing (research)</title>
+      <title>Utility science pack (research)</title>
+    </sub_category>
+    <sub_category name="Transportation">
+      <title>Automated rail transportation (research)</title>
+      <title>Automobilism (research)</title>
+      <title>Fluid wagon (research)</title>
+      <title>Rail support foundations (research)</title>
+      <title>Railway (research)</title>
+      <title>Tank (research)</title>
+      <title>Spidertron (research)</title>
+    </sub_category>
+    <sub_category name="Equipment modules">
+      <title>Belt immunity equipment (research)</title>
+      <title>Discharge defense (research)</title>
+      <title>Energy shield equipment (research)</title>
+      <title>Energy shield MK2 equipment (research)</title>
+      <title>Exoskeleton equipment (research)</title>
+      <title>Nightvision equipment (research)</title>
+      <title>Personal battery (research)</title>
+      <title>Personal battery MK2 (research)</title>
+      <title>Personal battery MK3 (research)</title>
+      <title>Personal laser defense (research)</title>
+      <title>Personal roboport (research)</title>
+      <title>Personal roboport MK2 (research)</title>
+      <title>Portable fission reactor (research)</title>
+      <title>Portable fusion reactor (research)</title>
+      <title>Portable solar panel (research)</title>
+    </sub_category>
+    <sub_category name="Modules">
+      <title>Modules (research)</title>
+      <title>Effect transmission (research)</title>
+      <title>Efficiency module (research)</title>
+      <title>Efficiency module 2 (research)</title>
+      <title>Efficiency module 3 (research)</title>
+      <title>Productivity module (research)</title>
+      <title>Productivity module 2 (research)</title>
+      <title>Productivity module 3 (research)</title>
+      <title>Speed module (research)</title>
+      <title>Speed module 2 (research)</title>
+      <title>Speed module 3 (research)</title>
+      <title>Quality module (research)</title>
+      <title>Quality module 2 (research)</title>
+      <title>Quality module 3 (research)</title>
+    </sub_category>
+  </category>
 </library>
